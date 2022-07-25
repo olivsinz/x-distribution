@@ -1,1 +1,1 @@
-# x-distribution
+# X-distribution
